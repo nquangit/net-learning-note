@@ -1,6 +1,6 @@
 # Basic Router Configuration
 
-## Objective
+## Objectives
 
 - Move between modes of the router CLI
 - Erase the configuration of the router, reload the router, and enter the initial configuration dialog
@@ -10,7 +10,7 @@
 - Configure the IP address of a router interface
 - Save the configuration
 
-## Diagram
+## Topology
 
 ![alt text](diagram.png)
 
