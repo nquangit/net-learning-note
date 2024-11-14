@@ -32,7 +32,7 @@ Explanation:
 - `Local Intrfce`: The interface on R1 that is connected to R2. In this case, it is `Eth 0/0`.
 - `Holdtime`: The amount of time in seconds that the device will hold the information before discarding it. In this case, it is 174 seconds.
 - `Capability`: The type of device. In this case, it is a router and it is source route bridging capable.
-- `Platform`: The model of the device. In this case, it is a Linux Uni.
+- `Platform`: The model of the device. In this case, it is a Linux Unix.
 - `Port ID`: The interface on R2 that is connected to R1. In this case, it is `Eth 0/0`.
 
 Show more detailed information about the neighbor:
