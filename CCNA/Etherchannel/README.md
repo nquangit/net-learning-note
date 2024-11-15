@@ -81,4 +81,3 @@ SW3# show etherchannel summary
 ```
 
 ![alt text](ther_sum_final.png)
-
