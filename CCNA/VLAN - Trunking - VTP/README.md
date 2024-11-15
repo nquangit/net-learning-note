@@ -79,6 +79,7 @@ Configure VTP transparent on SW2.
 SW2:
 vtp mode transparent
 vtp domain cyber
+vt password cisco <- Same as the server
 ```
 
 ![alt text](vtp_trans.png)
@@ -89,6 +90,7 @@ Configure VTP client on SW3.
 SW3:
 vtp mode client
 vtp domain cyber
+vt password cisco <- Same as the server
 ```
 
 ![alt text](vtp_client.png)
